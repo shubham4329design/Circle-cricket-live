@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "name": "Circle Cricket Live",
+  "description": "Complete cricket scoring platform for circle cricket",
+  "keywords": [
+    "cricket",
+    "scoring",
+    "flutter",
+    "firebase",
+    "sports"
+  ],
+  "homepage": "https://github.com/shubham4329design/circle-cricket-live",
+  "repository": "https://github.com/shubham4329design/circle-cricket-live",
+  "author": "Shubham Chopade",
+  "license": "MIT",
+  "social": {
+    "github": "https://github.com/shubham4329design",
+    "email": "shubhamchopade3241@gmail.com"
+  },
+  "features": [
+    "Live Cricket Scoring",
+    "Real-time Firebase Integration",
+    "Circle Cricket Rules Implementation",
+    "Role-Based Access Control",
+    "Points Table with NRR",
+    "Multi-Language Support (English, Marathi)",
+    "Offline Support",
+    "Push Notifications",
+    "Beautiful UI with Material Design 3",
+    "Admin Dashboard",
+    "Tournament Management",
+    "Player Statistics"
+  ],
+  "requirements": {
+    "flutter": ">=3.16.0",
+    "dart": ">=3.2.0"
+  },
+  "platforms": [
+    "Android",
+    "iOS",
+    "Web"
+  ]
+}
